@@ -86,6 +86,9 @@ This is a significant transparency issue for job seekers.
 ### 2. Top Hiring Cities
 *(Insert top 5 cities from your query)*
 
+![Uploading Screenshot 2026-09-24 165959.jpg…]()
+
+
 ### 3. Most In-Demand Skills
 
 | Skill | Jobs mentioning it |
